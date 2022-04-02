@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Assignment 1</title>
+
+</head>
+
+<body>
+
+<h3>Assignment 1</h3>
+
+<p> Hey! It looks like a paragraph, but there is a block/box here too. Find that HTML element other than &ltp&gt and &lth&gt </p>
+
+<p> <a href="https://www.google.com/" style="color: orchid">This is a link to Google</a> </p>
+
+<img src="MagicKingdom.jpeg" width=100px align=left>
+
+<br><br><br><br><br><br><br><br> <p><em> Email me by clicking on <a href="mailto:Lisa87051@gmail.com">Jon Doe</a> <br> Visit us at: <br> <a href="https://disneyworld.disney.go.com/">Disney World</a> <br> Box 678, Disneyland <br> USA </p>
+
+</body>
+
+</html>
