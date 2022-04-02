@@ -1,6 +1,6 @@
-body{
-  background-color: lightblue;
-}
 .orangebox{
-  width: 30%;
+  width: 20%;
+  float: left;
+  border-radius: 5px;
+  margin-left: 1%;
 }
