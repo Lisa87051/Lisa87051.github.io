@@ -1,0 +1,41 @@
+
+.container{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.container div{
+  display: flex;
+  align-items: center;
+}
+
+.pic1, .pic2{
+  border: 2px solid;
+}
+
+img{
+  width: 600px;
+  height: 225px;
+}
+
+.blurb{
+  border: 5px solid #4f7da8;
+  background-color: rgb(235, 234, 228);
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 300px;
+  height: 190px;
+  padding: 20px;
+}
+
+nav{
+  font-size: 20px;
+}
+
+.vertical-line{
+  border-left: 2px solid;
+  display: inline-block;
+  height: 20px;
+  margin: 0 30px;
+}

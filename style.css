@@ -1,0 +1,29 @@
+.pic{
+  border: 2px solid purple;
+  width: 200px;
+  height: 150px;
+
+}
+
+.pinkbox{
+  border: 2px solid black;
+  background-color: pink;
+  height: 450px;
+  color: White;
+  font-style: strong;
+  padding: 10px;
+}
+
+table{
+  border: 2px solid;
+}
+
+nav{
+  font-size: 20px;
+}
+.vertical-line{
+  border-left: 2px solid;
+  display: inline-block;
+  height: 20px;
+  margin: 0 30px;
+}
